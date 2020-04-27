@@ -7,4 +7,5 @@
  | [extension](./src/extension) | Basic knowledge of extension |
  | [lambda](./src/lambda) | Basic knowledge of lambda 
  | [high order function](./src/highorderfunction) | advanced knowledge of function |
+ | [class and Inheritance](./src/highorderfunction) | define a class, interface |
 
