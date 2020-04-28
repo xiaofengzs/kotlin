@@ -10,4 +10,5 @@
  | [class and Inheritance](./src/highorderfunction) | define a class, interface |
  | [visibility modifiers](./src/visibilitymodifiers) | how to use visibility modifiers |
  | [companion object](./src/companionobject) | how to use companion object |
+ | [loop](./src/loop) | how to use loop |
 
