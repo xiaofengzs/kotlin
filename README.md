@@ -11,4 +11,5 @@
  | [visibility modifiers](./src/visibilitymodifiers) | how to use visibility modifiers |
  | [companion object](./src/companionobject) | how to use companion object |
  | [loop](./src/loop) | how to use loop |
+ | [collection operators](./src/loop) | how to use collection operators |
 
