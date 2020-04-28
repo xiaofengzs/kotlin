@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="427b6b68-8c07-4bc0-b08e-78b48872827e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/clazz/Test.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clazz/Test5.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +124,8 @@
       <workItem from="1587606202571" duration="1215000" />
       <workItem from="1587707438656" duration="2536000" />
       <workItem from="1587902538198" duration="3684000" />
-      <workItem from="1587954569868" duration="1453000" />
+      <workItem from="1587954569868" duration="3038000" />
+      <workItem from="1588037005987" duration="235000" />
     </task>
     <servers />
   </component>
@@ -170,10 +169,10 @@
     <state width="1636" height="258" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1587625028202" />
     <state width="1636" height="258" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.960@0.23.1680.960" timestamp="1587652465529" />
     <state width="1636" height="258" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1587642058142" />
-    <state x="496" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1587954569739">
+    <state x="496" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1588037008329">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="496" y="337" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1587954569739" />
+    <state x="496" y="337" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1588037008329" />
     <state x="496" y="337" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/0.23.1680.960@0.23.1680.960" timestamp="1587902578670" />
     <state x="505" y="231" width="670" height="675" key="run.anything.popup" timestamp="1587607727847">
       <screen x="0" y="23" width="1680" height="960" />

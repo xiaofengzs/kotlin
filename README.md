@@ -8,4 +8,5 @@
  | [lambda](./src/lambda) | Basic knowledge of lambda 
  | [high order function](./src/highorderfunction) | advanced knowledge of function |
  | [class and Inheritance](./src/highorderfunction) | define a class, interface |
+ | [visibility modifiers](./src/visibilitymodifiers) | how to use visibility modifiers |
 
