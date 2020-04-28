@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="427b6b68-8c07-4bc0-b08e-78b48872827e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Kotlin.TestKt (3)">
+  <component name="RunManager" selected="Kotlin.TestKt (4)">
     <configuration name="StringUtilKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-basic" />
       <option name="VM_PARAMETERS" />
@@ -88,14 +89,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="TestKt (4)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-basic" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="function.TestKt" />
+      <option name="MAIN_CLASS_NAME" value="companionobject.TestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TestKt (4)" />
         <item itemvalue="Kotlin.TestKt (3)" />
         <item itemvalue="Kotlin.TestKt (2)" />
         <item itemvalue="Kotlin.TestKt (1)" />
         <item itemvalue="Kotlin.StringUtilKt" />
-        <item itemvalue="Kotlin.TestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +126,7 @@
       <workItem from="1587707438656" duration="2536000" />
       <workItem from="1587902538198" duration="3684000" />
       <workItem from="1587954569868" duration="3038000" />
-      <workItem from="1588037005987" duration="235000" />
+      <workItem from="1588037005987" duration="2572000" />
     </task>
     <servers />
   </component>
