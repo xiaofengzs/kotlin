@@ -12,4 +12,5 @@
  | [companion object](./src/companionobject) | how to use companion object |
  | [loop](./src/loop) | how to use loop |
  | [collection operators](./src/loop) | how to use collection operators |
+ | [scope functions](./src/loop) | how to use scope functions |
 
