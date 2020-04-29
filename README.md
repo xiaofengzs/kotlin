@@ -11,6 +11,7 @@
  | [visibility modifiers](./src/visibilitymodifiers) | how to use visibility modifiers |
  | [companion object](./src/companionobject) | how to use companion object |
  | [loop](./src/loop) | how to use loop |
- | [collection operators](./src/loop) | how to use collection operators |
- | [scope functions](./src/loop) | how to use scope functions |
-
+ | [collection operators](./src/collectionoperators) | how to use collection operators |
+ | [scope functions](./src/scopefuncitons) | how to use scope functions |
+ | [null safety](./src/nullsafety) | what is null safety |
+   
